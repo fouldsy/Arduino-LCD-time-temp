@@ -1,0 +1,1 @@
+Connect a 16x2 LCD with Adafruit backpack to Arduino and display time from DS1307 RTC and a TMP36 temperature sensor.
